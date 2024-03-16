@@ -1,0 +1,141 @@
+user_id,skill_name,skill_id,problem_id,correct,time loap,question_level,template_id,fake_skill_name,attempt_count,hint_count
+16032024,Logical Reasoning and Objectivity (critical thinking),3972,55088,0,0,Easy,2024001,Logical Reasoning and Objectivity (critical thinking),1,0
+17032024,Problem-solving,3977,55089,0,0,Medium,2024002,Problem-solving,1,0
+18032024,Writing coding effectively,3982,55090,0,0,difficult,2024003,Writing coding effectively,1,0
+19032024,Interaction with algorithm,3987,55091,0,0,difficult,2024004,Interaction with algorithm,1,0
+20032024,Mapping code using a flowchart and pseudocode,3992,55092,0,0,difficult,2024005,Mapping code using a flowchart and pseudocode,1,0
+21032024,Logical Reasoning and Objectivity (critical thinking),3997,55093,0,0,Easy,2024006,Logical Reasoning and Objectivity (critical thinking),1,0
+22032024,Problem-solving,4002,55094,1,0,Medium,2024007,Problem-solving,1,0
+23032024,Writing coding effectively,4007,55095,1,0,difficult,2024008,Writing coding effectively,1,0
+24032024,Interaction with algorithm,4012,55096,1,0,difficult,2024009,Interaction with algorithm,1,0
+25032024,Mapping code using a flowchart and pseudocode,4017,55097,1,0,difficult,2024010,Mapping code using a flowchart and pseudocode,1,0
+26032024,Logical Reasoning and Objectivity (critical thinking),4022,55098,0,0,Easy,2024011,Logical Reasoning and Objectivity (critical thinking),1,0
+27032024,Problem-solving,4027,55099,1,0,Medium,2024012,Problem-solving,1,0
+28032024,Writing coding effectively,4032,55100,1,0,difficult,2024013,Writing coding effectively,1,0
+29032024,Interaction with algorithm,4037,55101,1,0,difficult,2024014,Interaction with algorithm,1,0
+30032024,Mapping code using a flowchart and pseudocode,4042,55102,1,0,difficult,2024015,Mapping code using a flowchart and pseudocode,1,0
+31032024,Logical Reasoning and Objectivity (critical thinking),4047,55103,0,0,Easy,2024016,Logical Reasoning and Objectivity (critical thinking),1,0
+32032024,Problem-solving,4052,55104,0,0,Medium,2024017,Problem-solving,1,0
+33032024,Writing coding effectively,4057,55105,1,0,difficult,2024018,Writing coding effectively,1,0
+34032024,Interaction with algorithm,4062,55106,1,0,difficult,2024019,Interaction with algorithm,1,0
+35032024,Mapping code using a flowchart and pseudocode,4067,55107,1,0,difficult,2024020,Mapping code using a flowchart and pseudocode,1,0
+36032024,Logical Reasoning and Objectivity (critical thinking),4072,55108,0,0,Easy,2024021,Logical Reasoning and Objectivity (critical thinking),1,0
+37032024,Problem-solving,4077,55109,0,0,Medium,2024022,Problem-solving,1,0
+38032024,Writing coding effectively,4082,55110,1,0,difficult,2024023,Writing coding effectively,1,0
+39032024,Interaction with algorithm,4087,55111,1,0,difficult,2024024,Interaction with algorithm,1,0
+40032024,Mapping code using a flowchart and pseudocode,4092,55112,1,0,difficult,2024025,Mapping code using a flowchart and pseudocode,1,0
+41032024,Logical Reasoning and Objectivity (critical thinking),4097,55113,0,0,Easy,2024026,Logical Reasoning and Objectivity (critical thinking),1,0
+42032024,Problem-solving,4102,55114,1,0,Medium,2024027,Problem-solving,1,0
+43032024,Writing coding effectively,4107,55115,1,0,difficult,2024028,Writing coding effectively,1,0
+44032024,Interaction with algorithm,4112,55116,1,0,difficult,2024029,Interaction with algorithm,1,0
+45032024,Mapping code using a flowchart and pseudocode,4117,55117,1,0,difficult,2024030,Mapping code using a flowchart and pseudocode,1,0
+46032024,Logical Reasoning and Objectivity (critical thinking),4122,55118,1,0,Easy,2024031,Logical Reasoning and Objectivity (critical thinking),1,0
+47032024,Problem-solving,4127,55119,1,0,Medium,2024032,Problem-solving,1,0
+48032024,Writing coding effectively,4132,55120,1,0,difficult,2024033,Writing coding effectively,1,0
+49032024,Interaction with algorithm,4137,55121,1,0,difficult,2024034,Interaction with algorithm,1,0
+50032024,Mapping code using a flowchart and pseudocode,4142,55122,1,0,difficult,2024035,Mapping code using a flowchart and pseudocode,1,0
+51032024,Logical Reasoning and Objectivity (critical thinking),4147,55123,0,0,Easy,2024036,Logical Reasoning and Objectivity (critical thinking),1,0
+52032024,Problem-solving,4152,55124,1,0,Medium,2024037,Problem-solving,1,0
+53032024,Writing coding effectively,4157,55125,1,0,difficult,2024038,Writing coding effectively,1,0
+54032024,Interaction with algorithm,4162,55126,1,0,difficult,2024039,Interaction with algorithm,1,0
+55032024,Mapping code using a flowchart and pseudocode,4167,55127,1,0,difficult,2024040,Mapping code using a flowchart and pseudocode,1,0
+56032024,Logical Reasoning and Objectivity (critical thinking),4172,55128,1,0,Easy,2024041,Logical Reasoning and Objectivity (critical thinking),1,0
+57032024,Problem-solving,4177,55129,1,0,Medium,2024042,Problem-solving,1,0
+58032024,Writing coding effectively,4182,55130,1,0,difficult,2024043,Writing coding effectively,1,0
+59032024,Interaction with algorithm,4187,55131,1,0,difficult,2024044,Interaction with algorithm,1,0
+60032024,Mapping code using a flowchart and pseudocode,4192,55132,1,0,difficult,2024045,Mapping code using a flowchart and pseudocode,1,0
+61032024,Logical Reasoning and Objectivity (critical thinking),4197,55133,0,0,Easy,2024046,Logical Reasoning and Objectivity (critical thinking),1,0
+62032024,Problem-solving,4202,55134,1,0,Medium,2024047,Problem-solving,1,0
+63032024,Writing coding effectively,4207,55135,1,0,difficult,2024048,Writing coding effectively,1,0
+64032024,Interaction with algorithm,4212,55136,1,0,difficult,2024049,Interaction with algorithm,1,0
+65032024,Mapping code using a flowchart and pseudocode,4217,55137,0,0,difficult,2024050,Mapping code using a flowchart and pseudocode,1,0
+66032024,Logical Reasoning and Objectivity (critical thinking),4222,55138,0,0,Easy,2024051,Logical Reasoning and Objectivity (critical thinking),1,0
+67032024,Problem-solving,4227,55139,1,0,Medium,2024052,Problem-solving,1,0
+68032024,Writing coding effectively,4232,55140,1,0,difficult,2024053,Writing coding effectively,1,0
+69032024,Interaction with algorithm,4237,55141,1,0,difficult,2024054,Interaction with algorithm,1,0
+70032024,Mapping code using a flowchart and pseudocode,4242,55142,1,0,difficult,2024055,Mapping code using a flowchart and pseudocode,1,0
+71032024,Logical Reasoning and Objectivity (critical thinking),4247,55143,0,0,Easy,2024056,Logical Reasoning and Objectivity (critical thinking),1,0
+72032024,Problem-solving,4252,55144,1,0,Medium,2024057,Problem-solving,1,0
+73032024,Writing coding effectively,4257,55145,1,0,difficult,2024058,Writing coding effectively,1,0
+74032024,Interaction with algorithm,4262,55146,1,0,difficult,2024059,Interaction with algorithm,1,0
+75032024,Mapping code using a flowchart and pseudocode,4267,55147,0,0,difficult,2024060,Mapping code using a flowchart and pseudocode,1,0
+76032024,Logical Reasoning and Objectivity (critical thinking),4272,55148,0,0,Easy,2024061,Logical Reasoning and Objectivity (critical thinking),1,0
+77032024,Problem-solving,4277,55149,1,0,Medium,2024062,Problem-solving,1,0
+78032024,Writing coding effectively,4282,55150,1,0,difficult,2024063,Writing coding effectively,1,0
+79032024,Interaction with algorithm,4287,55151,1,0,difficult,2024064,Interaction with algorithm,1,0
+80032024,Mapping code using a flowchart and pseudocode,4292,55152,0,0,difficult,2024065,Mapping code using a flowchart and pseudocode,1,0
+81032024,Logical Reasoning and Objectivity (critical thinking),4297,55153,0,0,Easy,2024066,Logical Reasoning and Objectivity (critical thinking),1,0
+82032024,Problem-solving,4302,55154,1,0,Medium,2024067,Problem-solving,1,0
+83032024,Writing coding effectively,4307,55155,1,0,difficult,2024068,Writing coding effectively,1,0
+84032024,Interaction with algorithm,4312,55156,1,0,difficult,2024069,Interaction with algorithm,1,0
+85032024,Mapping code using a flowchart and pseudocode,4317,55157,1,0,difficult,2024070,Mapping code using a flowchart and pseudocode,1,0
+86032024,Logical Reasoning and Objectivity (critical thinking),4322,55158,0,0,Easy,2024071,Logical Reasoning and Objectivity (critical thinking),1,0
+87032024,Problem-solving,4327,55159,1,0,Medium,2024072,Problem-solving,1,0
+88032024,Writing coding effectively,4332,55160,1,0,difficult,2024073,Writing coding effectively,1,0
+89032024,Interaction with algorithm,4337,55161,1,0,difficult,2024074,Interaction with algorithm,1,0
+90032024,Mapping code using a flowchart and pseudocode,4342,55162,0,0,difficult,2024075,Mapping code using a flowchart and pseudocode,1,0
+91032024,Logical Reasoning and Objectivity (critical thinking),4347,55163,0,0,Easy,2024076,Logical Reasoning and Objectivity (critical thinking),1,0
+92032024,Problem-solving,4352,55164,0,0,Medium,2024077,Problem-solving,1,0
+93032024,Writing coding effectively,4357,55165,1,0,difficult,2024078,Writing coding effectively,1,0
+94032024,Interaction with algorithm,4362,55166,1,0,difficult,2024079,Interaction with algorithm,1,0
+95032024,Mapping code using a flowchart and pseudocode,4367,55167,0,0,difficult,2024080,Mapping code using a flowchart and pseudocode,1,0
+96032024,Logical Reasoning and Objectivity (critical thinking),4372,55168,0,0,Easy,2024081,Logical Reasoning and Objectivity (critical thinking),1,0
+97032024,Problem-solving,4377,55169,1,0,Medium,2024082,Problem-solving,1,0
+98032024,Writing coding effectively,4382,55170,1,0,difficult,2024083,Writing coding effectively,1,0
+99032024,Interaction with algorithm,4387,55171,1,0,difficult,2024084,Interaction with algorithm,1,0
+100032024,Mapping code using a flowchart and pseudocode,4392,55172,0,0,difficult,2024085,Mapping code using a flowchart and pseudocode,1,0
+101032024,Logical Reasoning and Objectivity (critical thinking),4397,55173,0,0,Easy,2024086,Logical Reasoning and Objectivity (critical thinking),1,0
+102032024,Problem-solving,4402,55174,1,0,Medium,2024087,Problem-solving,1,0
+103032024,Writing coding effectively,4407,55175,1,0,difficult,2024088,Writing coding effectively,1,0
+104032024,Interaction with algorithm,4412,55176,1,0,difficult,2024089,Interaction with algorithm,1,0
+105032024,Mapping code using a flowchart and pseudocode,4417,55177,1,0,difficult,2024090,Mapping code using a flowchart and pseudocode,1,0
+106032024,Logical Reasoning and Objectivity (critical thinking),4422,55178,0,0,Easy,2024091,Logical Reasoning and Objectivity (critical thinking),1,0
+107032024,Problem-solving,4427,55179,1,0,Medium,2024092,Problem-solving,1,0
+108032024,Writing coding effectively,4432,55180,1,0,difficult,2024093,Writing coding effectively,1,0
+109032024,Interaction with algorithm,4437,55181,1,0,difficult,2024094,Interaction with algorithm,1,0
+110032024,Mapping code using a flowchart and pseudocode,4442,55182,1,0,difficult,2024095,Mapping code using a flowchart and pseudocode,1,0
+111032024,Logical Reasoning and Objectivity (critical thinking),4447,55183,0,0,Easy,2024096,Logical Reasoning and Objectivity (critical thinking),1,0
+112032024,Problem-solving,4452,55184,1,0,Medium,2024097,Problem-solving,1,0
+113032024,Writing coding effectively,4457,55185,1,0,difficult,2024098,Writing coding effectively,1,0
+114032024,Interaction with algorithm,4462,55186,1,0,difficult,2024099,Interaction with algorithm,1,0
+115032024,Mapping code using a flowchart and pseudocode,4467,55187,1,0,difficult,2024100,Mapping code using a flowchart and pseudocode,1,0
+116032024,Logical Reasoning and Objectivity (critical thinking),4472,55188,0,0,Easy,2024101,Logical Reasoning and Objectivity (critical thinking),1,0
+117032024,Problem-solving,4477,55189,0,0,Medium,2024102,Problem-solving,1,0
+118032024,Writing coding effectively,4482,55190,1,0,difficult,2024103,Writing coding effectively,1,0
+119032024,Interaction with algorithm,4487,55191,1,0,difficult,2024104,Interaction with algorithm,1,0
+120032024,Mapping code using a flowchart and pseudocode,4492,55192,1,0,difficult,2024105,Mapping code using a flowchart and pseudocode,1,0
+121032024,Logical Reasoning and Objectivity (critical thinking),4497,55193,0,0,Easy,2024106,Logical Reasoning and Objectivity (critical thinking),1,0
+122032024,Problem-solving,4502,55194,1,0,Medium,2024107,Problem-solving,1,0
+123032024,Writing coding effectively,4507,55195,1,0,difficult,2024108,Writing coding effectively,1,0
+124032024,Interaction with algorithm,4512,55196,1,0,difficult,2024109,Interaction with algorithm,1,0
+125032024,Mapping code using a flowchart and pseudocode,4517,55197,0,0,difficult,2024110,Mapping code using a flowchart and pseudocode,1,0
+126032024,Logical Reasoning and Objectivity (critical thinking),4522,55198,1,0,Easy,2024111,Logical Reasoning and Objectivity (critical thinking),1,0
+127032024,Problem-solving,4527,55199,1,0,Medium,2024112,Problem-solving,1,0
+128032024,Writing coding effectively,4532,55200,1,0,difficult,2024113,Writing coding effectively,1,0
+129032024,Interaction with algorithm,4537,55201,1,0,difficult,2024114,Interaction with algorithm,1,0
+130032024,Mapping code using a flowchart and pseudocode,4542,55202,1,0,difficult,2024115,Mapping code using a flowchart and pseudocode,1,0
+131032024,Logical Reasoning and Objectivity (critical thinking),4547,55203,1,0,Easy,2024116,Logical Reasoning and Objectivity (critical thinking),1,0
+132032024,Problem-solving,4552,55204,1,0,Medium,2024117,Problem-solving,1,0
+133032024,Writing coding effectively,4557,55205,1,0,difficult,2024118,Writing coding effectively,1,0
+134032024,Interaction with algorithm,4562,55206,1,0,difficult,2024119,Interaction with algorithm,1,0
+135032024,Mapping code using a flowchart and pseudocode,4567,55207,1,0,difficult,2024120,Mapping code using a flowchart and pseudocode,1,0
+136032024,Logical Reasoning and Objectivity (critical thinking),4572,55208,0,0,Easy,2024121,Logical Reasoning and Objectivity (critical thinking),1,0
+137032024,Problem-solving,4577,55209,1,0,Medium,2024122,Problem-solving,1,0
+138032024,Writing coding effectively,4582,55210,1,0,difficult,2024123,Writing coding effectively,1,0
+139032024,Interaction with algorithm,4587,55211,1,0,difficult,2024124,Interaction with algorithm,1,0
+140032024,Mapping code using a flowchart and pseudocode,4592,55212,0,0,difficult,2024125,Mapping code using a flowchart and pseudocode,1,0
+141032024,Logical Reasoning and Objectivity (critical thinking),4597,55213,0,0,Easy,2024126,Logical Reasoning and Objectivity (critical thinking),1,0
+142032024,Problem-solving,4602,55214,0,0,Medium,2024127,Problem-solving,1,0
+143032024,Writing coding effectively,4607,55215,1,0,difficult,2024128,Writing coding effectively,1,0
+144032024,Interaction with algorithm,4612,55216,1,0,difficult,2024129,Interaction with algorithm,1,0
+145032024,Mapping code using a flowchart and pseudocode,4617,55217,0,0,difficult,2024130,Mapping code using a flowchart and pseudocode,1,0
+146032024,Logical Reasoning and Objectivity (critical thinking),4622,55218,1,0,Easy,2024131,Logical Reasoning and Objectivity (critical thinking),1,0
+147032024,Problem-solving,4627,55219,1,0,Medium,2024132,Problem-solving,1,0
+148032024,Writing coding effectively,4632,55220,1,0,difficult,2024133,Writing coding effectively,1,0
+149032024,Interaction with algorithm,4637,55221,1,0,difficult,2024134,Interaction with algorithm,1,0
+150032024,Mapping code using a flowchart and pseudocode,4642,55222,0,0,difficult,2024135,Mapping code using a flowchart and pseudocode,1,0
+151032024,Logical Reasoning and Objectivity (critical thinking),4647,55223,0,0,Easy,2024136,Logical Reasoning and Objectivity (critical thinking),1,0
+152032024,Problem-solving,4652,55224,0,0,Medium,2024137,Problem-solving,1,0
+153032024,Writing coding effectively,4657,55225,1,0,difficult,2024138,Writing coding effectively,1,0
+154032024,Interaction with algorithm,4662,55226,1,0,difficult,2024139,Interaction with algorithm,1,0
+155032024,Mapping code using a flowchart and pseudocode,4667,55227,0,0,difficult,2024140,Mapping code using a flowchart and pseudocode,1,0
