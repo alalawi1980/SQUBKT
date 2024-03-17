@@ -1,0 +1,146 @@
+student_code,Student_id,Skill,Corrects,absence_rate,AI detection 
+16032024,130858,Logical Reasoning and Objectivity (critical thinking),0,3.33,84%
+17032024,130858,Problem-solving,0,3.33,84%
+18032024,130858,Writing coding effectively,0,3.33,84%
+19032024,130858,Interaction with algorithm,0,3.33,84%
+20032024,130858,Mapping code using a flowchart and pseudocode,0,3.33,84%
+21032024,133091,Logical Reasoning and Objectivity (critical thinking),0,0.0,25%
+22032024,133091,Problem-solving,1,0.0,25%
+23032024,133091,Writing coding effectively,1,0.0,25%
+24032024,133091,Interaction with algorithm,1,0.0,25%
+25032024,133091,Mapping code using a flowchart and pseudocode,1,0.0,25%
+26032024,133311,Logical Reasoning and Objectivity (critical thinking),0,3.33,22%
+27032024,133311,Problem-solving,1,3.33,22%
+28032024,133311,Writing coding effectively,1,3.33,22%
+29032024,133311,Interaction with algorithm,1,3.33,22%
+30032024,133311,Mapping code using a flowchart and pseudocode,1,3.33,22%
+31032024,133438,Logical Reasoning and Objectivity (critical thinking),0,0.0,15%
+32032024,133438,Problem-solving,0,0.0,15%
+33032024,133438,Writing coding effectively,1,0.0,15%
+34032024,133438,Interaction with algorithm,1,0.0,15%
+35032024,133438,Mapping code using a flowchart and pseudocode,1,0.0,15%
+36032024,134658,Logical Reasoning and Objectivity (critical thinking),0,3.33,22%
+37032024,134658,Problem-solving,0,3.33,22%
+38032024,134658,Writing coding effectively,1,3.33,22%
+39032024,134658,Interaction with algorithm,1,3.33,22%
+40032024,134658,Mapping code using a flowchart and pseudocode,1,3.33,22%
+41032024,136353,Logical Reasoning and Objectivity (critical thinking),0,6.67,82%
+42032024,136353,Problem-solving,1,6.67,82%
+43032024,136353,Writing coding effectively,1,6.67,82%
+44032024,136353,Interaction with algorithm,1,6.67,82%
+45032024,136353,Mapping code using a flowchart and pseudocode,1,6.67,82%
+46032024,136450,Logical Reasoning and Objectivity (critical thinking),0,3.33,22%
+47032024,136450,Problem-solving,1,3.33,22%
+48032024,136450,Writing coding effectively,1,3.33,22%
+49032024,136450,Interaction with algorithm,1,3.33,22%
+50032024,136450,Mapping code using a flowchart and pseudocode,1,3.33,22%
+51032024,136480,Logical Reasoning and Objectivity (critical thinking),1,0.0,55%
+52032024,136480,Problem-solving,1,0.0,55%
+53032024,136480,Writing coding effectively,1,0.0,55%
+54032024,136480,Interaction with algorithm,1,0.0,55%
+55032024,136480,Mapping code using a flowchart and pseudocode,1,0.0,55%
+56032024,136565,Logical Reasoning and Objectivity (critical thinking),0,6.67,82%
+57032024,136565,Problem-solving,1,6.67,82%
+58032024,136565,Writing coding effectively,1,6.67,82%
+59032024,136565,Interaction with algorithm,1,6.67,82%
+60032024,136565,Mapping code using a flowchart and pseudocode,1,6.67,82%
+61032024,136629,Logical Reasoning and Objectivity (critical thinking),1,3.33,10%
+62032024,136629,Problem-solving,1,3.33,10%
+63032024,136629,Writing coding effectively,1,3.33,10%
+64032024,136629,Interaction with algorithm,1,3.33,10%
+65032024,136629,Mapping code using a flowchart and pseudocode,1,3.33,10%
+66032024,136912,Logical Reasoning and Objectivity (critical thinking),0,0.0,54%
+67032024,136912,Problem-solving,1,0.0,54%
+68032024,136912,Writing coding effectively,1,0.0,54%
+69032024,136912,Interaction with algorithm,1,0.0,54%
+70032024,136912,Mapping code using a flowchart and pseudocode,0,0.0,54%
+71032024,136943,Logical Reasoning and Objectivity (critical thinking),0,3.33,29%
+72032024,136943,Problem-solving,1,3.33,29%
+73032024,136943,Writing coding effectively,1,3.33,29%
+74032024,136943,Interaction with algorithm,1,3.33,29%
+75032024,136943,Mapping code using a flowchart and pseudocode,1,3.33,29%
+76032024,137146,Logical Reasoning and Objectivity (critical thinking),0,6.67,55%
+77032024,137146,Problem-solving,1,6.67,55%
+78032024,137146,Writing coding effectively,1,6.67,55%
+79032024,137146,Interaction with algorithm,1,6.67,55%
+80032024,137146,Mapping code using a flowchart and pseudocode,0,6.67,55%
+81032024,137171,Logical Reasoning and Objectivity (critical thinking),0,3.33,30%
+82032024,137171,Problem-solving,1,3.33,30%
+83032024,137171,Writing coding effectively,1,3.33,30%
+84032024,137171,Interaction with algorithm,1,3.33,30%
+85032024,137171,Mapping code using a flowchart and pseudocode,0,3.33,30%
+86032024,137238,Logical Reasoning and Objectivity (critical thinking),0,6.67,25%
+87032024,137238,Problem-solving,1,6.67,25%
+88032024,137238,Writing coding effectively,1,6.67,25%
+89032024,137238,Interaction with algorithm,1,6.67,25%
+90032024,137238,Mapping code using a flowchart and pseudocode,1,6.67,25%
+91032024,137259,Logical Reasoning and Objectivity (critical thinking),0,0.0,8%
+92032024,137259,Problem-solving,1,0.0,8%
+93032024,137259,Writing coding effectively,1,0.0,8%
+94032024,137259,Interaction with algorithm,1,0.0,8%
+95032024,137259,Mapping code using a flowchart and pseudocode,0,0.0,8%
+96032024,137407,Logical Reasoning and Objectivity (critical thinking),0,3.33,19%
+97032024,137407,Problem-solving,0,3.33,19%
+98032024,137407,Writing coding effectively,1,3.33,19%
+99032024,137407,Interaction with algorithm,1,3.33,19%
+100032024,137407,Mapping code using a flowchart and pseudocode,0,3.33,19%
+101032024,137472,Logical Reasoning and Objectivity (critical thinking),0,6.67,15%
+102032024,137472,Problem-solving,1,6.67,15%
+103032024,137472,Writing coding effectively,1,6.67,15%
+104032024,137472,Interaction with algorithm,1,6.67,15%
+105032024,137472,Mapping code using a flowchart and pseudocode,0,6.67,15%
+106032024,137620,Logical Reasoning and Objectivity (critical thinking),0,0.0,61%
+107032024,137620,Problem-solving,1,0.0,61%
+108032024,137620,Writing coding effectively,1,0.0,61%
+109032024,137620,Interaction with algorithm,1,0.0,61%
+110032024,137620,Mapping code using a flowchart and pseudocode,1,0.0,61%
+111032024,137974,Logical Reasoning and Objectivity (critical thinking),0,10.0,40%
+112032024,137974,Problem-solving,1,10.0,40%
+113032024,137974,Writing coding effectively,1,10.0,40%
+114032024,137974,Interaction with algorithm,1,10.0,40%
+115032024,137974,Mapping code using a flowchart and pseudocode,1,10.0,40%
+116032024,138157,Logical Reasoning and Objectivity (critical thinking),0,3.33,34%
+117032024,138157,Problem-solving,1,3.33,34%
+118032024,138157,Writing coding effectively,1,3.33,34%
+119032024,138157,Interaction with algorithm,1,3.33,34%
+120032024,138157,Mapping code using a flowchart and pseudocode,1,3.33,34%
+121032024,138200,Logical Reasoning and Objectivity (critical thinking),0,3.33,58%
+122032024,138200,Problem-solving,0,3.33,58%
+123032024,138200,Writing coding effectively,1,3.33,58%
+124032024,138200,Interaction with algorithm,1,3.33,58%
+125032024,138200,Mapping code using a flowchart and pseudocode,1,3.33,58%
+126032024,138401,Logical Reasoning and Objectivity (critical thinking),0,0.0,71%
+127032024,138401,Problem-solving,1,0.0,71%
+128032024,138401,Writing coding effectively,1,0.0,71%
+129032024,138401,Interaction with algorithm,1,0.0,71%
+130032024,138401,Mapping code using a flowchart and pseudocode,0,0.0,71%
+131032024,138485,Logical Reasoning and Objectivity (critical thinking),1,3.33,43%
+132032024,138485,Problem-solving,1,3.33,43%
+133032024,138485,Writing coding effectively,1,3.33,43%
+134032024,138485,Interaction with algorithm,1,3.33,43%
+135032024,138485,Mapping code using a flowchart and pseudocode,1,3.33,43%
+136032024,138604,Logical Reasoning and Objectivity (critical thinking),1,3.33,13%
+137032024,138604,Problem-solving,1,3.33,13%
+138032024,138604,Writing coding effectively,1,3.33,13%
+139032024,138604,Interaction with algorithm,1,3.33,13%
+140032024,138604,Mapping code using a flowchart and pseudocode,1,3.33,13%
+141032024,138645,Logical Reasoning and Objectivity (critical thinking),0,6.67,17%
+142032024,138645,Problem-solving,1,6.67,17%
+143032024,138645,Writing coding effectively,1,6.67,17%
+144032024,138645,Interaction with algorithm,1,6.67,17%
+145032024,138645,Mapping code using a flowchart and pseudocode,0,6.67,17%
+146032024,138810,Logical Reasoning and Objectivity (critical thinking),0,16.67,16%
+147032024,138810,Problem-solving,0,16.67,16%
+148032024,138810,Writing coding effectively,1,16.67,16%
+149032024,138810,Interaction with algorithm,1,16.67,16%
+150032024,138810,Mapping code using a flowchart and pseudocode,0,16.67,16%
+151032024,139254,Logical Reasoning and Objectivity (critical thinking),1,0.0,24%
+152032024,139254,Problem-solving,1,0.0,24%
+153032024,139254,Writing coding effectively,1,0.0,24%
+154032024,139254,Interaction with algorithm,1,0.0,24%
+155032024,139254,Mapping code using a flowchart and pseudocode,0,0.0,24%
+156032024,141031,Logical Reasoning and Objectivity (critical thinking),0,6.67,39%
+157032024,141031,Problem-solving,0,6.67,39%
+158032024,141031,Writing coding effectively,1,6.67,39%
+159032024,141031,Interaction with algorithm,1,6.67,39%
+160032024,141031,Mapping code using a flowchart and pseudocode,0,6.67,39%
