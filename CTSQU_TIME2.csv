@@ -1,4 +1,4 @@
-student_code,user_id,skill_name,correct,absence_rate,AI detection ,start_time,submit time,delivery_hours
+student_code,user_id,skill_name,correct,absence_rate,AI_detection ,start_time,submit time,delivery_hours
 16032024,130858,Logical Reasoning and Objectivity (critical thinking),0,0.033,0.84,2024-02-25 22:24:00,2024-02-27 21:24:00,47.0
 17032024,130858,Problem-solving,0,0.033,0.84,2024-02-25 22:24:00,2024-02-27 21:24:00,47.0
 18032024,130858,Writing coding effectively,0,0.033,0.84,2024-02-25 22:24:00,2024-02-27 21:24:00,47.0
